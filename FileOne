@@ -3,5 +3,6 @@ public class Sample {
 public static void main (String[]args){
 System.out.println("WELCOME TO JENKINS TOOL)";
 System.out.println("I love Git very much");
+System.out.println("NEW line are wrote");
 }
 }
